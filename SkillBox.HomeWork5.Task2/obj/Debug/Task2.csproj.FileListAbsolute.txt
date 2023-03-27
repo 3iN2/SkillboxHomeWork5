@@ -1,0 +1,8 @@
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\bin\Debug\SkillBox.HomeWork5.Task2.exe.config
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\bin\Debug\SkillBox.HomeWork5.Task2.exe
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\bin\Debug\SkillBox.HomeWork5.Task2.pdb
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\obj\Debug\SkillBox.HomeWork5.Task2.exe
+D:\Проекты C#\SkillBox.HomeWork5\SkillBox.HomeWork5.Task2\obj\Debug\SkillBox.HomeWork5.Task2.pdb
